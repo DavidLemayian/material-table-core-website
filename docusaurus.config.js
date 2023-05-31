@@ -3,11 +3,11 @@ const path = require("path");
 module.exports = {
   title: "@material-table/core",
   tagline: "Feature rich data table for React",
-  url: "https://material-table-core.com",
-  baseUrl: "/",
+  url: "https://davidlemayian.github.io/material-table-core-website",
+  baseUrl: "/material-table-core-website/",
   // onBrokenLinks: "ignore",
-  organizationName: "material-table-core", // Usually your GitHub org/user name.
-  projectName: "website", // Usually your repo name.
+  organizationName: "DavidLemayian", // Usually your GitHub org/user name.
+  projectName: "material-table-core-website", // Usually your repo name.
   favicon: "/img/logo.png",
   plugins: [
     [
