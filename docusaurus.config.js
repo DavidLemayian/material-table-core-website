@@ -7,7 +7,7 @@ module.exports = {
   baseUrl: "/material-table-core-website/",
   // onBrokenLinks: "ignore",
   organizationName: "DavidLemayian", // Usually your GitHub org/user name.
-  projectName: "material-table-core-website", // Usually your repo name.
+  projectName: "material-table-core-website",  // Usually your repo name.
   favicon: "/img/logo.png",
   plugins: [
     [
